@@ -28,8 +28,8 @@ def print_with_time_interval(res, interval):
     else:
         description = "Description not available"
 
-    bot_token = '5810719434:AAFU43cnz9DzBl9s8R-Ino3RHbflIjPzW70'
-    channel_id = '-1001826934314'
+    bot_token = 'botid'
+    channel_id = 'chatid'
 
    
     url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
