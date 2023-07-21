@@ -4,4 +4,4 @@ First download beautifulsoup4 and requests on python terminal
 Second create telegram bot using botfather
 Third create a telegram channel 
 Fourth get chat id from id bot
-Fifth write web scrapping code and put in the channel id and chat id
+Fifth write web scrapping code and put in the channel id and chatid
